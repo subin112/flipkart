@@ -1,0 +1,972 @@
+{
+  "header": {
+    "img": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/flipkart-plus_8d85f4.png",
+    "img1": "Explore",
+    "img2": "Plus",
+    "img3": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/plus_aef861.png",
+        "search":"icons/searchblue.svg",
+        "login":"Login",
+        "Become":"Become a Seller",
+        "more":"More",
+        "carter":"Cart",
+        "image":"http://www.w3.org/2000/svg",
+        "image2":"icons/cart.svg",
+        "fade":"174 More"
+
+  },
+  "subHeader":[
+
+{
+            "navText": "Electronics",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "TVs & Appllances",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Men",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Women",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Baby & Kids",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Home & Furniture",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Sports, Books & More",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Flights",
+            "navArrow": "images/svgexport-5.svg"
+        },
+        {
+            "navText": "Offer Zone",
+            "navArrow": "images/svgexport-5.svg"
+        }
+
+],
+
+"sideBar": {
+  "filterTxt": "Filters",
+  "catogoryTxt": "CATEGORIES",
+   "mobileimg": "images/svgexport-5.svg",
+        "mobileAccessories": "Mobiles & Accessories",
+        "mobileTxt": "Mobiles",
+        "priceTxt": "PRICE",
+        "toTxt":"to",
+        "min":["Min","₹10000",
+            "₹15000",
+            "₹20000",
+            "₹30000"],
+            "max":[ "₹30000+",
+            "₹10000",
+            "₹15000",
+            "₹20000",
+            "₹30000"],
+            "brandTxt":"Brand",
+            "brandIcon": "images/svgexport-5.svg",
+            "brandInput":"Search Brand",
+            "searchIcon": "images/svgexport-9.svg",
+            "brand":["SAMSUNG","vivo",
+            "OPPO",
+            "realme",
+            "POCO",
+            "MOTOROLA"],
+            "more": "171 MORE",
+            "flipCheck":"images/flipkartAssured.png",
+            "sidebarSections": [
+              {"sectionName": "CUSTOMER RATING",
+                "id": "rating",
+                "nameId": "display",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "4 <img src='icons/blackstar.svg' & above>",
+                    "3 <img src='icons/blackstar.svg' & above>"
+                ],
+                "moreDisplay": "moreNone"},
+                               {"sectionName": "GST INVOICE AVAILABLE",
+                "id": "gst",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "GST Invoice Available"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "RAM",
+                "id": "ram",
+                "nameId": "display",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "4 GB",
+                    "3 GB",
+                    "2 GB",
+                    "1 GB and Below",
+                    "8 GB and Above",
+                    "6 GB",
+              "6 GB Above"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "INTERNAL STORAGE",
+                "id": "storage",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "256 GB & Above",
+                    "128-255.9GB",
+                    "64-127.9GB",
+                    "32-63.9GB",
+                    "16-31.9GB",
+                    "8-15.9GB"
+                ],
+                "more": "10 MORE"},
+                { "sectionName": "BATTERY CAPACITY",
+                "id": "batery",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "1000 - 1999mAh",
+                    "2000 - 2999mAh",
+                    "3000 - 3999mAh",
+                    "4000 - 4999mAh",
+                    "5000 - 5999mAh",
+                    "5000 mAh Above",
+                    "6000 mAh & Above",
+                                       "Less than 1000mAh"
+                   
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "SCREEN SIZE",
+                "id": "screen",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "5.7 - 5.9 inch",
+                    "5.5 - 5.6 inch",
+                    "5.2 - 5.4 inch",
+                    "5 - 5.1 inch",
+                    "4.5 - 4.9 inch",
+                    "4 - 4.4 inch",
+                    "3.5 - 3.9 inch",
+                    "3 - 3.4 inch",
+                    "Less than 3 inch",
+                    "6.4 inch & Above",
+                    "6 - 6.3 inch",
+                    "6 inch above"
+                ],
+                "moreDisplay": "moreNone"},
+                {"sectionName": "PRIMARY CAMERA",
+                "id": "Primary-camera",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "5 - 7.9 MP",
+                    "Below 5MP",
+                    "8 - 11.9 MP",
+                    "12 - 12.9 MP",
+                    "12 - 15.9 MP",
+                    "13 - 15.9 MP",
+                    "16 - 20.9 MP",
+                    "21 - 31.9 MP",
+                    "21 MP Above",
+                    "32 - 47.9 MP",
+                    "48 - 63.9 MP",
+                    "64 MP & Above"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "SECONDARY CAMERA",
+                "id": "Secondary-camera",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "12 - 12.9 MP",
+                    "12 - 15.9 MP",
+                    "13 - 15.9 MP",
+                    "16 - 20.9 MP",
+                    "21 MP Above",
+                    "21 MP & Above",
+                    "5 - 7.9 MP",
+                    "8 - 11.9 MP",
+                    "Below 5 MP"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "PROCESSOR BRAND",
+                "id": "processor",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "AMD",
+                    "Apple",
+                    "ARM",
+                    "Exynos",
+                    "Google",
+                    "HiSilicon",
+                    "Huawei",
+                    "Intel",
+                    "Mediatek",
+                    "NVIDIA",
+                    "Qualcomm",
+                    "Snapdragon",
+                    "Spreadtrum",
+                    "Unisoc"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "SPECIALITY",
+                "id": "speciality",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Big Storage",
+                    "Higher Performance",
+                    "Long-Lasting Battery",
+                    "Selfie Camera"
+                ],
+                "moreDisplay": "moreNone"},
+                {"sectionName": "RESOLUTION TYPE",
+                "id": "resolution",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Full HD",
+                    "Full HD+",
+                    "Full HD+ AMOLED Display",
+                    "Full HD+ E3 Super AMOLED Display",
+                    "Full HD+ E3 Super AMOLED Display",
+                    "FWVGA"
+                ],
+                "more": "21 MORE"},
+                { "sectionName": "OPERATING SYSTEM",
+                "id": "operating-system",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Android",
+                    "Symbian",
+                    "Windows"
+                ],
+                "more": "",
+                "moreDisplay": "moreNone"},
+                {"sectionName": "NETWORK TYPE",
+                "id": "network",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "2G",
+                    "3G",
+                    "4G",
+                    "4G VOLTE",
+                    "5G"
+                ],
+                "moreDisplay": "moreNone"},
+                {"sectionName": "SIM TYPE",
+                "id": "sim-type",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Dual Sim",
+                    "Dual Sim(Nano + eSIM)",
+                    "Dual Sim(Physical + eSIM)",
+                    "Single Sim"
+                ],
+                "moreDisplay": "moreNone"},
+                {"sectionName": "OFFERS",
+                "id": "offers",
+                "nameId": "display",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Buy More, Save More",
+                    "No Cost EMI",
+                    "Special Price"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "FEATURES",
+                "id": "featues",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "WiFI",
+                    "HD Recording",
+                    "FM Player",
+                    "NFC",
+                    "Music Player",
+                    "Bluetooth",
+                    "USB"],"moreDisplay":"moreNone"},
+                { "sectionName": "TYPE",
+                "id": "type",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Smartphones",
+                    "Feature Phones"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "NUMBER OF CORES",
+                "id": "cores",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Dual Core",
+                    "Hexa Core",
+                    "Octa Core",
+                    "Quad Core",
+                    "Single Core"
+                ],
+                "moreDisplay": "moreNone"},
+                { "sectionName": "AVAILABILITY",
+                "id": "availability",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Exclude Out of Stock"
+                ],
+                "moreDisplay": "moreNone"},
+                {"sectionName": "DISCOUNT",
+                "id": "discount",
+                "nameId": "display",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "50% or more",
+                    "40% or more",
+                    "30% or more",
+                    "20% or more",
+                    "10% or more"
+                ],
+                "moreDisplay": "moreNone"},
+                {"sectionName": "OPERATING SYSTEM VERSION NAME",
+                "id": "version-name",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "Android Q",
+                    "Anna",
+                    "Froyo",
+                    "Ice Cream Sandwich",
+                    "KitKat",
+                    "Lollipop",
+                    "Marshmallow",
+                    "Nougat",
+                    "Oreo",
+                    "Oxygen",
+                    "Pie",
+                    "Series 30"
+                ],
+                "more": "12 more"},
+                { "sectionName": "CLOCK SPEED",
+                "id": "clock-speed",
+                "nameId": "displaynone",
+                "brandIcon": "images/svgexport-5.svg",
+                "selectedItems": [
+                    "1.5 - 1.9GHz",
+                    "2 - 2.1GHz",
+                    "2 - 2.5GHz",
+                    "2.2 - 2.4Hz",
+                    "2.5 & Above",
+                    "2.5 GHz Above",
+                    "Below 1.5 GHz",
+                    "Less than 900 MHz"
+                ],
+                "moreDisplay": "moreNone"}
+              
+
+            ]
+},
+"main":{
+    "mainHeader" :{
+        "headerTop" :[
+            {
+                "text" : "Home",
+                "topIcon":"images/svgexport-5.svg"
+            },
+             {
+                "text" : "Mobile & Appliances",
+                "topIcon":"images/svgexport-5.svg"
+            },
+             {
+                "text" : "MObiles",
+                "topIcon":"images/svgexport-5.svg"
+            }
+        ],
+        "mainHead": "Showing 1 – 24 of 9,947 results for",
+        "headFilter":[
+             {
+                    "name": "Sort By",
+                    "id": "filter1"
+                },
+                 {
+                    "name": "Revelance",
+                    "id": "filter2"
+                },
+                 {
+                    "name": "popularity",
+                    "id": "filter3"
+                },
+                 {
+                    "name": "Price -- Low to High",
+                    "id": "filter4"
+                },
+                 {
+                    "name": "Price --High to Low",
+                    "id": "filter5"
+                },
+                 {
+                    "name": "Newest First",
+                    "id": "filter6"
+                }
+        ]
+    },
+"mobileGrid" : [
+                   {
+"id": "vivo",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/c/y/-original-imah3hvkuw8k7hcw.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "vivo V40 5G (Ganges Blue, 512 GB)",
+                "rateTxt": "4.5",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "114 Rating & 18 Reviews",
+                "specification": [
+                    "12 GB RAM | 512 Gb ROM",
+                    "17.22 cm (6.78 inch) Full HD+ Display",
+                    "50MP + 50MP | 50MP Front Camera",
+                    "5500 mAh Battery",
+                    "Snapdragon 7 Gen 3 Processor",
+                    "1 Year Warranty on Handset and 6months Warranty on Accessories"
+                ],
+                "price": "41,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "48,999",
+                "percentage": "14% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹34,800</span>Off on Exchange"
+            },
+    {
+"id": "iphone",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "Apple iPhone 15 (Blue, 128 GB)",
+                "rateTxt": "4.6",
+                "rateImg": "",
+                "rateNumber": "44,931 Rating & 2,408 Reviews",
+                "specification": [
+                    "128 GB ROM",
+                    "15.49 cm (6.1 inch) Super Retina XDR Display",
+                    "48MP + 12MP | 12MP Front Camera",
+                    "A16 Bionic Chip, 6 Core Processor",
+                    "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+                ],
+                "price": "71,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "79,600",
+                "percentage": "9% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹53,150</span>Off on Exchange"
+
+            },
+                {
+"id": "iphone",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "Apple iPhone 15 (Black, 128 GB)",
+                "rateTxt": "4.6",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "44,931 Rating & 2,408 Reviews",
+                "specification": [
+                    "128 GB ROM",
+                    "15.49 cm (6.1 inch) Super Retina XDR Display",
+                    "48MP + 12MP | 12MP Front Camera",
+                    "A16 Bionic Chip, 6 Core Processor",
+                    "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+                ],
+                "price": "71,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "79,600",
+                "percentage": "9% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹53,150</span>Off on Exchange"
+            },         
+                  {
+"id": "vivo",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/3/-original-imah27wvna2g9hfc.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "vivo T3 Lite 5G (Majestic Black, 128 GB)",
+                "rateTxt": "4.4",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "11,965 Rating & 327 Reviews",
+                "specification": [
+                    "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                    "16.66 cm (6.56 inch) Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Warranty for Device and 6 Months manufacture warranty for inbox Acessories"
+                ],
+                "price": "10,499",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "14,499",
+                "percentage": "27% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹8,900</span>Off on Exchange"
+            },
+               {
+"id": "vivo",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/i/r/t3-lite-5g-v2356-vivo-original-imah27wmfgkergtx.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "vivo T3 Lite 5G (Vibrant Green, 128 GB)",
+                "rateTxt": "4.4",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "14,158 Rating & 327reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                    "16.66 cm (6.56 inch) Display",
+                    "16.66 cm (6.56 inch) Display",
+                    "5000 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Warranty for Device and 6 Months manufacture warranty for inbox Acessories"
+                ],
+                "price": "11,499",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "15,499",
+                "percentage": "25% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹7,800</span>Off on Exchange"
+            },
+                          {
+"id": "iphone",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/1/i/x/-original-imagtc6fhhtqjnr9.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "Apple iPhone 15 Plus (Blue, 128 GB)",
+                "rateTxt": "4.6",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "8,523 Ratings &  678 Reviews",
+                "specification": [
+                    "128 GB ROM",
+                    "17.02 cm (6.7 inch) Super Retina XDR Display",
+                    "48MP + 12MP | 12MP Front Camera",
+                    "A16 Bionic Chip, 6 Core Processor Processor",
+                    "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+                    
+                ],
+                "price": "79,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "89,600",
+                "percentage": "10% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹47,600</span>Off on Exchange"
+            },
+                          {
+"id": "motorola",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/t/j/edge-50-fusion-pb300002in-motorola-original-imahywzrfagkuyxx.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",
+                "rateTxt": "4.5",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "35,939 Ratings &  2,342 Reviews",
+                "specification": [
+                    "8 GB RAM | 128 GB ROM",
+                    "17.02 cm (6.7 inch) Full HD+ Display",
+                    "50MP + 13MP | 32MP Front Camera",
+                    "5000 mAh Battery",
+                    "7s Gen 2 Processor",
+                    "1 Year on Handset and 6 Months on Accessories"
+                ],
+                "price": "79,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "25,999",
+                "percentage": "11% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹17,250</span>Off on Exchange"
+            },
+                          {
+"id": "iphone",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/z/3/-original-imagtc5fqyz8tu4c.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "Apple iPhone 15 (Green, 128 GB)",
+                "rateTxt": "4.6",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "48,211 Rating & 2,535 Reviews",
+                "specification": [
+                    "128 GB ROM",
+                    "15.49 cm (6.1 inch) Super Retina XDR Display",
+                    "48MP + 12MP | 12MP Front Camera",
+                    "A16 Bionic Chip, 6 Core Processor Processor",
+                    "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+                   
+                ],
+                "price": "69,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "79,600",
+                "percentage": "12% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹47,600</span>Off on Exchange"
+            },
+                          {
+"id": "vivo",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "vivo T3x 5G (Crimson Bliss, 128 GB)",
+                "rateTxt": "4.4",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "11,139 Ratings  &  539 Reviews",
+                "specification": [
+                    "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                    "17.07 cm (6.72 inch) Full HD+ Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "6000 mAh Battery",
+                    "6 Gen 1 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for Inbox Accessories"
+                ],
+                "price": "16,499",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "20,499",
+                "percentage": "19% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹10,850</span>Off on Exchange"
+            },
+                          {
+"id": "realme",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/c/3/-original-imah3chxfqnezjjb.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "realme 12x 5G (Twilight Purple, 128 GB)",
+                "rateTxt": "4.4",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "5,821 Ratings &  258 Reviews",
+                "specification": [
+                    "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+                    "17.07 cm (6.72 inch) Full HD+ Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6100+ Processor",
+                    "1 Year Warranty for Device and 6 Months manufacture warranty for inbox Acessories"
+                ],
+                "price": "14,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "18,999",
+                "percentage": "12% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹47,600</span>Off on Exchange"
+            },
+                          {
+"id": "realme",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/t/4/-original-imah3chxfkqxyzm3.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "realme 12x 5G (Woodland Green, 128 GB)",
+                "rateTxt": "4.4",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "5,821 Ratings  &  258 Reviews",
+                "specification": [
+                    "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+                    "17.07 cm (6.72 inch) Full HD+ Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6100+ Processor",
+                    "1 Year Warranty for Device and 6 Months manufacture warranty for inbox Acessories"
+                ],
+                "price": "14,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "18,999",
+                "percentage": "21% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹9,800</span>Off on Exchange"
+            },
+                 {
+"id": "realme",
+"mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/t/4/-original-imah3chxfkqxyzm3.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "realme 12x 5G (Twilight Purple, 128 GB)",
+                "rateTxt": "4.4",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "5,821 Ratings  &  258 Reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+                    "17.07 cm (6.72 inch) Full HD+ Display",
+                    "50MP + 2MP | 8MP Front Camera",
+                    "5000 mAh Battery",
+                    "Dimensity 6100+ Processor",
+                    "1 Year Warranty for Device and 6 Months manufacture warranty for inbox Acessories"
+                ],
+                "price": "14,499",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "18,999",
+                "percentage": "25% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save extra with combo offers",
+                "exchangeTxt": "Upto <span>₹8,700</span>Off on Exchange"
+            },
+             {
+                "id": "oppo",
+                "mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/m/0/-original-imah37gw2wv2ayrf.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Voilet, 128 GB)",
+                "rateTxt": "4.5",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "16,840 Ratings & 559 Reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                    "16.94 cm (6.67 inch) Full HD+ Display",
+                    "32MP + 2MP | 8MP Front Camera",
+                    "5100 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+                ],
+                "price": "12,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "16,999",
+                "percentage": "23% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save Deal",
+                "exchangeTxt": "Upto ₹8,100 Off on Exchange"
+            },
+            {
+                "id": "oppo",
+                "mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/e/3/-original-imah37gwn2xbvzhy.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Voilet, 128 GB)",
+                "rateTxt": "4.5",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "16,840 Ratings & 559 Reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                    "16.94 cm (6.67 inch) Full HD+ Display",
+                    "32MP + 2MP | 8MP Front Camera",
+                    "5100 mAh Battery",
+                    "Dimensity 6300 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+                ],
+                "price": "12,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "16,999",
+                "percentage": "15% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save Deal",
+                "exchangeTxt": "Upto ₹11,100 Off on Exchange"
+            },
+             {
+                "id": "redmi",
+                "mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/j/n/-original-imags37gyajqxkgp.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "REDMI 12 (Moonstone Silver, 128 GB)",
+                "rateTxt": "4.2",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "52,840 Ratings & 3,559 Reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                   "17.25 cm (6.79 inch) Full HD+ Display",
+                   "50MP + 8MP + 2MP | 8MP Front Camera",
+                   "5000 mAh Battery",
+                   "Helio G88 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+                ],
+                "price": "9,999",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "15,999",
+                "percentage": "37% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save Deal",
+                "exchangeTxt": "Upto ₹7,800 Off on Exchange"
+            },
+            {
+                "id": "redmi",
+                "mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/m/g/-original-imagxaqtqng2hpxn.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "REDMI 12 5G (Jade Black, 128 GB)",
+                "rateTxt": "4.2",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "52,840 Ratings & 3,559 Reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                   "17.25 cm (6.79 inch) Full HD+ Display",
+                   "50MP + 8MP + 2MP | 8MP Front Camera",
+                   "5000 mAh Battery",
+                   "Helio G88 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+                ],
+                "price": "12,499",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "15,999",
+                "percentage": "37% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save Deal",
+                "exchangeTxt": "Upto ₹7,800 Off on Exchange"
+            },
+                {
+                "id": "redmi",
+                "mobileImg": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/m/g/-original-imagxaqtqng2hpxn.jpeg?q=70",
+                "checkBoxTxt": "Add to compare",
+                "likeImg": "images/svgexport-13.svg",
+                "mobileName": "REDMI 12 5G (Jade Black, 128 GB)",
+                "rateTxt": "4.2",
+                "rateImg": "images//svgexport-15.svg",
+                "rateNumber": "52,840 Ratings & 3,559 Reviews",
+                "specification": [
+                    "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+                   "17.25 cm (6.79 inch) Full HD+ Display",
+                   "50MP + 8MP + 2MP | 8MP Front Camera",
+                   "5000 mAh Battery",
+                   "Helio G88 Processor",
+                    "1 Year Manufacturer Warranty for Device and 6 Months Manufacturer Warranty for In-Box Accessories"
+                ],
+                "price": "12,499",
+                "flipkartImg": "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png",
+                "originalPrice": "15,999",
+                "percentage": "37% off",
+                "deliveryStatus": "Free delivery",
+                "offerTxt": "Save Deal",
+                "exchangeTxt": "Upto ₹7,800 Off on Exchange"
+            }
+
+            
+],
+"bottomBtn" : {
+    "btmSpan" : "page 1 of 420 ",
+    "prev" :"PREVIOUS",
+    "btmBtn": [
+
+    ],
+    "next": "NEXT"
+}
+
+},
+ "footer": {
+        "footerTop": [
+            {
+                "topHead": "ABOUT",
+                "footerGrid": [
+                    "Contact Us",
+                    "About Us",
+                    "Careers",
+                    "Flipkart Stories",
+                    "Press",
+                    "Corporate Information"
+                ]
+            },
+            {
+                "topHead": "GROUP COMPANIES",
+                "footerGrid": [
+                    "Myntra",
+                    "Cleartrip",
+                    "Shopsy"
+                ]
+            },
+            {
+                "topHead": "HELP",
+                "footerGrid": [
+                    "Payments",
+                    "Shipping",
+                    "Cancellation & Returnsareers",
+                    "FAQ",
+                    "Report Infringement"
+                ]
+            },
+            {
+                "topHead": "CONSUMER POLICY",
+                "footerGrid": [
+                    "Cancellation & Returns",
+                    "Terms Of Use",
+                    "Security",
+                    "Privacy",
+                    "Sitemap",
+                    "Grievance Redressal",
+                    "EPR Compliance"
+                ]
+            },
+            {
+                "topHead": "Mail Us:",
+                "footerGrid": [
+                    "Flipkart Internet Private Limited, ",
+                    " Buildings Alyssa, Begonia & ",
+                    " Buildings Alyssa, Begonia & ",
+                    " Outer Ring Road, Devarabeesanahalli Village, ",
+                    " Bengaluru, 560103, ",
+                    " Karnataka, India",
+                    "Social"
+                ],
+                "SocialImg": [
+                    "assets/images/face.svg",
+                    "assets/images/x.svg",
+                    "assets/images/youtube.svg"
+                ]
+            },
+            {
+                "topHead": "Registered Office Address:",
+                "footerGrid": [
+                    "Flipkart Internet Private Limited, ",
+                    " Buildings Alyssa, Begonia & ",
+                    " Clove Embassy Tech Village, ",
+                    " Outer Ring Road, Devarabeesanahalli Village, ",
+                    " Bengaluru, 560103, ",
+                    "  Karnataka, India  ",
+                    "  CIN : U51109KA2012PTC066107  ",
+                    " Telephone:<a>044-45614700</a>/<a>044-67415800</a> "
+                ]
+            }
+        ],
+        "footerBottom": [
+            {
+                "footerImg": "icons/svgexport-20.svg",
+                "imgSpan": "Become a Seller"
+            },
+            {
+                "footerImg": "icons/svgexport-21.svg",
+                "imgSpan": "Advertise"
+            },
+            {
+                "footerImg": "icons/svgexport-22.svg",
+                "imgSpan": "Gift Cards"
+            },
+            {
+                "footerImg": "icons/svgexport-23.svg",
+                "imgSpan": "Help Center"
+            },
+            {
+                "footerImg": "",
+                "imgSpan": "© 2007-2024 Flipkart.com"
+            },
+            {
+                "footerImg": "icons/svgexport-24.svg",
+                "imgSpan": ""
+            }
+        ]
+    }
+
+
+
+
+
+
+}
+
+
